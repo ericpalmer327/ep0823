@@ -36,3 +36,8 @@ The `ep0823` application is built using the Spring Boot framework, leveraging it
 1. **Clone the Repository**:
    ```bash
    git clone https://github.com/ericpalmer327/ep0823.git
+2. **Build the Application**:
+   ```bash
+   mvn clean install
+3. **There is Swagger documentation so APIs can be tested on Swagger**:
+
